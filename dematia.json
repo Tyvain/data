@@ -1,726 +1,726 @@
 [
 	{
-		"YIELD" : -67,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -61,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -60,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -59,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -57,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -56,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -55,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -54,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -53,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -52,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -51,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -50,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -49,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -48,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -47,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -46,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -46,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -45,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -45,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -45,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -44,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -43,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -43,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -42,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -42,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -42,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -41,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -41,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -40,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -40,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -39,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -39,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -38,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -38,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -37,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -37,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -37,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -36,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -36,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -36,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -35,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -35,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -35,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -34,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -34,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -34,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -33,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -33,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -33,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -32,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -32,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -32,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -32,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -31,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -31,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -31,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -31,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -30,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -30,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -30,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -29,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -29,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -29,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -29,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -28,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -28,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -28,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -28,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -27,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -27,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -27,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -26,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -26,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -26,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -26,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -25,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -25,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -25,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -25,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -24,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -24,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -24,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -23,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -23,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -23,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -22,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -22,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -22,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -22,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -21,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -21,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -21,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -21,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -20,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -20,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -20,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -20,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -19,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -19,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -19,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -19,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -18,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -18,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -18,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -18,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -17,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -17,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -17,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -17,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -16,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -16,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -16,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -16,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -15,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -15,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -15,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -15,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -14,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -14,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -14,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -14,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -13,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -13,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -13,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -13,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -12,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -12,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -12,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -12,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -11,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -11,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -11,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -11,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -10,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -10,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -10,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -10,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -9,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -9,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -9,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -9,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -8,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -8,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -8,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -8,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -7,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -7,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -7,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -7,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -6,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -6,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -6,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -6,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -5,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -5,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -5,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -5,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -4,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -4,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -4,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -4,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -3,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -3,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -3,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -3,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -2,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -2,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -2,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -2,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : -1,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : -1,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : -1,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : -1,
-		"VARIETY" : "soumission -> déversement"
-	},
-	{
-		"YIELD" : 0,
-		"VARIETY" : "Première connexion -> soumission"
-	},
-	{
-		"YIELD" : 0,
-		"VARIETY" : "déversement -> mise en paiement"
-	},
-	{
-		"YIELD" : 0,
-		"VARIETY" : "mise en paiement -> finalisation"
-	},
-	{
-		"YIELD" : 0,
-		"VARIETY" : "soumission -> déversement"
+		"YIELD" : 1,
+		"VARIETY" : "1. première connexion -> soumission"
 	},
 	{
 		"YIELD" : 1,
-		"VARIETY" : "Première connexion -> soumission"
+		"VARIETY" : "2. soumission -> déversement"
 	},
 	{
 		"YIELD" : 1,
-		"VARIETY" : "déversement -> mise en paiement"
+		"VARIETY" : "3. déversement -> mise en paiement"
 	},
 	{
 		"YIELD" : 1,
-		"VARIETY" : "mise en paiement -> finalisation"
+		"VARIETY" : "4. mise en paiement -> finalisation"
 	},
 	{
-		"YIELD" : 1,
-		"VARIETY" : "soumission -> déversement"
+		"YIELD" : 2,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 2,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 2,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 2,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 3,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 3,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 3,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 3,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 4,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 4,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 4,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 4,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 5,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 5,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 5,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 5,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 6,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 6,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 6,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 6,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 7,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 7,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 7,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 7,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 8,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 8,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 8,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 8,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 9,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 9,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 9,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 9,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 10,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 10,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 10,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 10,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 11,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 11,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 11,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 11,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 12,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 12,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 12,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 12,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 13,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 13,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 13,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 13,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 14,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 14,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 14,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 14,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 15,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 15,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 15,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 15,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 16,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 16,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 16,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 16,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 17,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 17,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 17,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 17,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 18,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 18,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 18,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 18,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 19,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 19,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 19,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 19,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 20,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 20,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 20,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 20,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 21,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 21,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 21,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 21,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 22,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 22,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 22,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 22,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 23,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 23,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 23,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 23,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 24,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 24,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 24,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 24,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 25,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 25,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 25,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 26,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 26,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 26,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 27,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 27,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 27,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 27,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 28,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 28,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 28,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 28,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 29,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 29,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 29,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 30,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 30,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 30,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 30,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 31,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 31,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 31,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 31,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 32,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 32,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 32,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 33,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 33,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 33,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 33,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 34,
+		"VARIETY" : "1. première connexion -> soumission"
+	},
+	{
+		"YIELD" : 34,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 34,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 34,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 35,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 35,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 35,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 36,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 36,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 36,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 37,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 37,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 37,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 38,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 38,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 38,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 39,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 39,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 39,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 40,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 40,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 41,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 41,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 42,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 42,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 43,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 43,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 44,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 44,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 44,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 45,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 45,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 46,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 47,
+		"VARIETY" : "2. soumission -> déversement"
+	},
+	{
+		"YIELD" : 47,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 47,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 48,
+		"VARIETY" : "3. déversement -> mise en paiement"
+	},
+	{
+		"YIELD" : 48,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 49,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 50,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 51,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 52,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 53,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 54,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 55,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 56,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 57,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 58,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 59,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 61,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 62,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 63,
+		"VARIETY" : "4. mise en paiement -> finalisation"
+	},
+	{
+		"YIELD" : 69,
+		"VARIETY" : "4. mise en paiement -> finalisation"
 	}
 ]
